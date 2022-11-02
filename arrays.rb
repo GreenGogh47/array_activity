@@ -8,7 +8,7 @@ puts ""
 floats.pop(2)
 puts floats
 
-# # I'll use the push method to add a friend, cause a girlfriend is still a friend
+# I'll use the push method to add a friend, cause a girlfriend is still a friend
 puts ""
 puts "add jami to the list"
 friends.push("jami")
@@ -23,3 +23,5 @@ puts numbers
 puts ""
 numbers.unshift(92)
 puts numbers
+
+
