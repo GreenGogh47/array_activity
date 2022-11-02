@@ -24,4 +24,12 @@ puts ""
 numbers.unshift(92)
 puts numbers
 
+#Arrays are simply lists of information.
+#They always start with 0. Thus, an array with 5 items will be listed 0-4.
+#Or you can go backwards. The last item will be -1.
+#Individual items can be accessed like this!
+puts ""
+puts ""
+puts numbers[3]
+puts numbers[-1]
 
